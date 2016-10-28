@@ -1,0 +1,62 @@
+h1{
+	text-align: center;
+	background: blue;
+	size: 400;
+	margin: 0px;
+	padding: 2% 0;
+}
+
+/*.PageGuide{
+	padding: 1% 8.22%;
+	margin-right: 0px;
+	border: 1px black solid;
+}*/
+
+.PageGuideBar{
+	background: lightblue;
+	padding: 10px;
+	margin-bottom: 10%
+}
+
+body{
+	background: gray;
+	margin: 0px;
+}
+
+table{
+	width: 80%;
+	margin-left: 10%;
+	text-align: center;
+}
+
+td{
+	border: 2px black solid;
+	border-bottom: 0px;
+	margin: 0;
+}
+
+tr{
+	width: 100px;
+}
+
+
+.AdvisorInfo{
+	margin-top: 5%;
+	margin-left: 10%;
+	width: 80%
+}
+
+h3{
+	background: lightblue;
+}
+
+li{
+	margin-left: 2.5%;
+}
+
+#CampusAddress{
+	font-size: 11px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
